@@ -1,0 +1,19 @@
+{
+  "name": "lesverbes",
+  "version": "2.0.0",
+  "description": "Gets info about french verb using lesverbes.com",
+  "main": "js/index.js",
+  "bin": "js/index.js",
+
+  "scripts": {
+    "build": "pkg . --out-dir ./dist",
+    "start": "node ."
+  },
+
+  "author": "Kristian",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.3.1",
+    "node-html-parser": "^1.1.12"
+  }
+}
