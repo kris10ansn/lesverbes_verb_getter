@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "inquirer": "^6.3.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "node-html-parser": "^1.1.12"
   }
 }
